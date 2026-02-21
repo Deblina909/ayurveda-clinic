@@ -1,0 +1,5 @@
+{
+  "name": "AyurVeda Clinic - Natural Healing",
+  "description": "A professional Ayurvedic clinic website offering natural treatments, online booking, and expert consultations.",
+  "requestFramePermissions": ["geolocation"]
+}
